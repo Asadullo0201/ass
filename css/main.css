@@ -1,0 +1,180 @@
+@import url(reset.css);
+
+
+  .wrap {
+    background-color: #eaeaea;
+    height: 1362px;
+    max-width: 1820px;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  .head {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-bottom: 15px;
+  }
+  .dobbi {
+    text-align: center;
+    font-size: 73px;
+    color: #ea2229;
+    font-weight: bold;
+    font-family: "Gill Sans";
+    height: 83px;
+  }
+  .herm{
+    padding: 10px;
+    font-size: 20px;
+color: #494949;
+font-family: "Myriad Pro";
+  }
+  
+  .garri{
+    margin-top: 28px;
+  }
+  span{
+    font-size: 50px;
+color: #ffffff;
+
+font-family: "Montserrat";
+margin-bottom: 15px;
+  }
+  .lkj{
+    margin-left: 230px;
+    width: 570px;
+height: 158px;
+font-size: 25px;
+line-height: 30px;
+color: #ffffff;
+font-weight: 400px;
+font-family: "Roboto";
+text-align: left;
+  }
+  .main{
+    width: 1820px;
+    height: 766px;
+    background-color: #ed1c24;
+    display: grid;
+    grid-template-columns: repeat(2,1fr );
+    margin-bottom: 80px;
+  }
+  .clas{font-size: 18px;
+    color: #494848;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .mnb {
+    display: inline-block;
+    border: 2px solid #ffffff;
+    font-size: 20px;
+color: #ffffff;
+font-family: "Montserrat";
+text-align: center;
+padding: 15px;
+  }
+  .hader2{
+    text-align: center;
+    margin-top: 120px;
+  }
+  h1{font-size: 45px;
+    color: #282828;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+  margin-bottom: 8px;}
+ 
+  .finish {
+    font-size: 20px;
+line-height: 30px;
+color: #959595;
+font-weight: 400;
+font-family: "Roboto";
+text-align: center;
+margin-bottom: 10px;
+  }
+
+  .dfg{
+   
+padding: 12px;
+display: inline-block;
+width: 1820px;
+height: 106px;
+background-color: #ee252d;
+
+ 
+  margin-top: 8px;
+font-size: 60px;
+color: #eaeaea;
+
+font-family: "Roboto";
+text-align: center;}
+
+h2{margin-left: 680px;
+    width: 457px;
+    height: 93px;
+    background-color: #ee252d;
+    font-size: 30px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+  padding: 30px;
+  margin-bottom: 10px;
+}
+.class{
+ 
+  margin-bottom: 50px;
+  font-size: 18px;
+color: #494848;
+font-weight: 400;
+font-family: "Montserrat";
+text-align: center;
+}
+.blok{
+border: 2px solid wheat;
+width: 700px;
+height: 300px;
+font-size: 50px;
+background-color: whitesmoke;
+margin-bottom: 50px;
+margin-left: 600px;
+text-align: center;
+box-shadow: inset;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
